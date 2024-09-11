@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "hello _DSCI 521: smile or you're not doing wrong"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
