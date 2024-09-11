@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "hello _DSCI 521: smile or you're not doing wrong"
